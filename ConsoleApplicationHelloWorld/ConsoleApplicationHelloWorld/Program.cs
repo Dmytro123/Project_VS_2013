@@ -12,7 +12,7 @@ namespace ConsoleApplicationHelloWorld
         {
             Console.WriteLine("Hello user\nПридумай число от 1 до 10\n");
 
-
+!!!
 
             Console.ReadKey();
         }
