@@ -10,7 +10,7 @@ namespace ConsoleApplicationHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello user\nПридумай число от 1 до 10\n");
+            Console.WriteLine("Hello Dmytro\nПридумай число от 1 до 10\n");
 
 
 
