@@ -1,1 +1,2 @@
 L:\документи\академия\лекции\22_Управление\Git\Project_VS_2013\ConsoleApplicationHelloWorld\ConsoleApplicationHelloWorld\bin\Debug\ConsoleApplicationHelloWorld.exe.config
+C:\Users\Dmytro\Desktop\Новая папка\ConsoleApplicationHelloWorld\ConsoleApplicationHelloWorld\bin\Debug\ConsoleApplicationHelloWorld.exe.config
